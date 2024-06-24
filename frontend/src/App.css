@@ -1,0 +1,73 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.home-button {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.difficulty {
+  margin: 20px 0;
+}
+
+.title_1 {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%); 
+}
+
+.submit-button {
+  margin-right: 10px; 
+}
+
+.description-container {
+  text-align: left;
+  padding-left: 20px;  
+}
+
+.musicButton{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #e85a18; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
